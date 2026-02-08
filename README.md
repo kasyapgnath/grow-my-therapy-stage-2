@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dr. Maya Reynolds – Homepage Clone & Creative Redesign
 
-## Getting Started
+This project was developed as part of the Stage 2 Internship Selection Process for Grow My Therapy.
 
-First, run the development server:
+The assignment required cloning a homepage layout and redesigning it using a new theme, copy, and imagery based strictly on an imaginary therapist profile.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Assignment Objective
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The goal of this project was to:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Accurately replicate the layout and structure of the provided template
+- Preserve responsiveness and hierarchy across devices
+- Redesign the site with a new cohesive color palette and typography
+- Rewrite all homepage copy based solely on Dr. Maya Reynolds' profile
+- Replace all images with relevant, intentional visuals
+- Add one custom section (“Our Office”) not present in the original template
+- Apply SEO best practices with location-based keywords (Santa Monica, CA)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- CSS Variables for theme management
+- Responsive Design Principles
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🎨 Key Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Pixel-accurate layout cloning
+- Fully responsive across desktop, tablet, and mobile
+- Custom color palette (Primary, Secondary, Accent)
+- Replaced original lilac theme with a calm therapy-appropriate theme
+- SEO-optimized H1 and structured headings
+- Intentional image replacement aligned with therapist profile
+- Custom “Our Office” section seamlessly integrated into homepage
+- Clean modular component architecture
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+
